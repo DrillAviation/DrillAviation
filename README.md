@@ -7,7 +7,9 @@
   <a href="https://www.linkedin.com/in/vyacheslav-n-0684882a7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+  <a href="https://t.me/funy_dude">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
 </div>
 
 <!--
