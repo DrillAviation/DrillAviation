@@ -21,6 +21,18 @@
   - 💼 Interned at Severstal as Python developer
   - 💭 Dream about work at Google
   - 🔮 Convicted that Agronomy and Ai it's future
+
+---
+##Languages and Tools 🧰
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img src="">
+  <img src="">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 <!--
 **DrillAviation/DrillAviation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
