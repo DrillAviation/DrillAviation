@@ -12,6 +12,14 @@
   </a>
 </div>
 
+---
+
+## About me👨🏻‍💻
+  - 🎓 Student of NUST MISIS
+  - 🌱 Currently learning C++
+  - 💼 Interned at Severstal as Python developer
+  - 💭 Dream about work at Google
+  - 🔮 Convicted that Agronomy and Ai it's future
 <!--
 **DrillAviation/DrillAviation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
