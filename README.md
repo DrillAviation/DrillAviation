@@ -1,6 +1,13 @@
 ## Ka-Chow⚡️
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&pause=1000&color=38F78C&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page!" alt="Typing SVG" /></a>
+---
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+div>
 <!--
 **DrillAviation/DrillAviation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
