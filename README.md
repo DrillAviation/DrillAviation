@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&pause=1000&color=38F78C&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page!" alt="Typing SVG" /></a>
 ---
 
-<div id="badges" style="text-align: center;">
+<div id="badges" style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/vyacheslav-n-0684882a7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
