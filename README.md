@@ -1,4 +1,5 @@
 ## Ka-Chow⚡️
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Honk&pause=1000&color=38F78C&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page!" alt="Typing SVG" />
 </div>
