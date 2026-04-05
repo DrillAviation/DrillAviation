@@ -44,12 +44,9 @@ Before automotive, I automated industrial processes as a **Python developer at S
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" width="40" height="40"/>
 </div>
 
-**Also:** PlantUML · Draw.io · UML / C4 · BPMN · AIDL · VHAL · Devprom
+**Also:** Draw.io · UML / C4 · BPMN · AIDL · VHAL 
 
 ---
 
