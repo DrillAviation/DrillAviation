@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Honk&size=25&pause=1000&color=38F78C&center=true&vCenter=true&width=500&lines=Automotive+Software+Architect+%7C+AOSP+%7C+RTOS;Building+the+future+of+mobility+%F0%9F%9A%97" alt="Typing SVG" />
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vyacheslav-n-0684882a7/">
+  <a href="https://www.linkedin.com/in/vyacheslav-nemenko">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/funy_dude">
